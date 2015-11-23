@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Segment-Kahuna_Example', :exclusive => true do
+  pod "Segment-Kahuna", :path => "../"
+end
+
+target 'Segment-Kahuna_Tests', :exclusive => true do
+  pod "Segment-Kahuna", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end

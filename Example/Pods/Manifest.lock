@@ -1,0 +1,26 @@
+PODS:
+  - Analytics (3.0.4-alpha)
+  - Expecta (1.0.5)
+  - Kahuna (2.3.1)
+  - Segment-Kahuna (1.0.0-alpha):
+    - Analytics (~> 3.0.4-alpha)
+    - Kahuna (~> 2.3.1)
+  - Specta (1.0.5)
+
+DEPENDENCIES:
+  - Expecta
+  - Segment-Kahuna (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  Segment-Kahuna:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Analytics: 3700e00809315a13b1deb75866b0aa87e13539d9
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  Kahuna: 29a9496ca2271aebf0771b6e2232078944d3729e
+  Segment-Kahuna: 9643637c053f3a30f9789bb1563f42de8d086d86
+  Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
+
+COCOAPODS: 0.39.0
