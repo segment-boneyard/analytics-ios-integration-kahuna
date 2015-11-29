@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '1FB16F02D0D9FDCF3CEDB0F8'
+               BlueprintIdentifier = '4901B6D4C9133A23F525E626'
                BlueprintName = 'Segment-Kahuna'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libSegment-Kahuna.a'>

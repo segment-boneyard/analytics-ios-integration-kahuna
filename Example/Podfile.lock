@@ -1,9 +1,9 @@
 PODS:
-  - Analytics (3.0.4-alpha)
+  - Analytics (3.0.1)
   - Expecta (1.0.5)
   - Kahuna (2.3.1)
   - Segment-Kahuna (1.0.0-alpha):
-    - Analytics (~> 3.0.4-alpha)
+    - Analytics (~> 3.0.1)
     - Kahuna (~> 2.3.1)
   - Specta (1.0.5)
 
@@ -17,10 +17,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Analytics: 3700e00809315a13b1deb75866b0aa87e13539d9
+  Analytics: 3d943bbe5b5522b7b380645474a9a0c76d126ad1
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Kahuna: 29a9496ca2271aebf0771b6e2232078944d3729e
-  Segment-Kahuna: 9643637c053f3a30f9789bb1563f42de8d086d86
+  Segment-Kahuna: 194026526d2a227feb06997d0b3fa5b63da77fa1
   Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
 
 COCOAPODS: 0.39.0

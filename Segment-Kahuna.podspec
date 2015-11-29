@@ -21,6 +21,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes/**/*'
 
-  s.dependency 'Analytics', '~> 3.0.4-alpha'
+  s.dependency 'Analytics', '~> 3.0.1'
   s.dependency 'Kahuna', '~> 2.3.1'
 end
